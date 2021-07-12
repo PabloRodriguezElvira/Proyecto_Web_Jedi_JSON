@@ -10,6 +10,11 @@
           "campo1": "Technological Baccalaureate",
           "campo2": "First year in Computer Science (FIB).",
           "campo3": "HTML, CSS and JavaScript course."
+      },
+      {
+          "campo1": "C++",
+          "campo2": "HTML & CSS",
+          "campo3": "JavaScript"
       }
     ]    
 }
