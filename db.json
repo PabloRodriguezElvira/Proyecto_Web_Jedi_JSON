@@ -12,9 +12,32 @@
           "campo3": "HTML, CSS and JavaScript course."
       },
       {
-          "campo1": "C++",
-          "campo2": "HTML & CSS",
-          "campo3": "JavaScript"
+          "leng1": "C++",
+          "nivel1": "75%",
+          "leng2": "HTML & CSS",
+          "nivel2": "40%",
+          "leng3": "JavaScript",
+          "nivel3": "20%"
+      },
+      {
+          "idioma": "Spanish",
+          "nivel": "(Native)",
+          "img": "imagenes/spain.png",
+          "alt": "foto_spain",
+          "estrella": "fas fa-star amarillo"
+      },
+      {
+          "idioma": "Catalan",
+          "nivel": "(Native)",
+          "img": "imagenes/catalan.png",
+          "alt": "foto_catalan"  
+      },
+      {
+          "idioma": "English",
+          "nivel": "(B2)",
+          "img": "imagenes/english.png",
+          "alt": "foto_english",
+          "estrella": "fas fa-star"
       }
     ]    
 }
