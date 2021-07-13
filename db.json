@@ -40,15 +40,7 @@
           "alt": "foto_english",
           "estrella": "fas fa-star"
       },
-      {
-          "campo1": "Travelling around the world.",
-          "campo2": "Running outside while listening to music.",
-          "campo3": "Watch science-fiction movies and series.",
-          "img": "imagenes/running.png"
-      }
-    ],
-
-    "info_juegos": [
+      [
         {
             "img": "imagenes/lol.png",
             "alt": "icono_lol",
@@ -79,5 +71,13 @@
             "alt": "icono_csgo",
             "name": "Counter Strike: GO"
         }
-    ]    
+      ], 
+      {
+          "campo1": "Travelling around the world.",
+          "campo2": "Running outside while listening to music.",
+          "campo3": "Watch science-fiction movies and series.",
+          "img": "imagenes/running.png",
+          "alt": "foto_html"
+      }
+    ] 
 }
