@@ -9,7 +9,8 @@
       {
           "campo1": "Technological Baccalaureate",
           "campo2": "First year in Computer Science (FIB).",
-          "campo3": "HTML, CSS and JavaScript course."
+          "campo3": "HTML, CSS and JavaScript course.",
+          "img": "imagenes/html-css-js.png"
       },
       {
           "leng1": "C++",
@@ -38,6 +39,45 @@
           "img": "imagenes/english.png",
           "alt": "foto_english",
           "estrella": "fas fa-star"
+      },
+      {
+          "campo1": "Travelling around the world.",
+          "campo2": "Running outside while listening to music.",
+          "campo3": "Watch science-fiction movies and series.",
+          "img": "imagenes/running.png"
       }
+    ],
+
+    "info_juegos": [
+        {
+            "img": "imagenes/lol.png",
+            "alt": "icono_lol",
+            "name": "League of Legends"
+        },
+        {
+            "img": "imagenes/doom.png",
+            "alt": "icono_doom",
+            "name": "Doom Eternal"
+        },
+        {
+            "img": "imagenes/dokkan.png",
+            "alt": "icono_dokkan",
+            "name": "Dokkan Battle"
+        },
+        {
+            "img": "imagenes/warframe.png",
+            "alt": "icono_warframe",
+            "name": "Warframe"
+        },
+        {
+            "img": "imagenes/valorant.png",
+            "alt": "icono_valorant",
+            "name": "Valorant"
+        },
+        {
+            "img": "imagenes/csgo.png",
+            "alt": "icono_csgo",
+            "name": "Counter Strike: GO"
+        }
     ]    
 }
