@@ -27,13 +27,15 @@
             "img": "imagenes/spain.png",
             "alt": "foto_spain",
             "estrella": "fas fa-star amarillo",
-            "estrella_negra": "fas fa-star"
+            "estrella_negra": "fas fa-star",
+            "id": "normal"
         },
         {
             "idioma": "Catalan",
             "nivel": "(Native)",
             "img": "imagenes/catalan.png",
-            "alt": "foto_catalan"
+            "alt": "foto_catalan",
+            "id": "normal"
         },
         {
             "idioma": "English",
