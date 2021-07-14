@@ -12,14 +12,20 @@
           "campo3": "HTML, CSS and JavaScript course.",
           "img": "imagenes/html-css-js.png"
       },
-      {
-          "leng1": "C++",
-          "nivel1": "75%",
-          "leng2": "HTML & CSS",
-          "nivel2": "40%",
-          "leng3": "JavaScript",
-          "nivel3": "20%"
-      },
+      [
+          {
+            "leng": "C++",
+            "nivel": "75%"
+          },
+          {
+            "leng": "HTML & CSS",
+            "nivel": "40%"
+          },
+          {
+            "leng": "JavaScript",
+            "nivel": "20%"
+          } 
+      ],
       [
         {
             "idioma": "Spanish",
