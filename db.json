@@ -8,11 +8,12 @@
       ],
       {
           "info_edu": [
-            {"campo1": "Technological Baccalaureate"},
-            {"campo2": "First year in Computer Science (FIB)."},
-            {"campo3": "HTML, CSS and JavaScript course."}
+            {"inf": "Technological Baccalaureate"},
+            {"inf": "First year in Computer Science (FIB)."},
+            {"inf": "HTML, CSS and JavaScript course."}
           ],
-          "img": "imagenes/html-css-js.png"
+          "img": "imagenes/html-css-js.png",
+          "alt": "foto_html"
       },
       [
           {
