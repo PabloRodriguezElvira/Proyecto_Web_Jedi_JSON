@@ -87,9 +87,11 @@
         }
       ], 
       {
-          "campo1": "Travelling around the world.",
-          "campo2": "Running outside while listening to music.",
-          "campo3": "Watch science-fiction movies and series.",
+          "info_hobbies": [
+            {"inf": "Travelling around the world."},
+            {"inf": "Running outside while listening to music."},
+            {"inf": "Watch science-fiction movies and series."}
+          ],
           "img": "imagenes/running.png",
           "alt": "foto_html"
       }
