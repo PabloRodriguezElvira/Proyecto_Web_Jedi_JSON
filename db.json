@@ -1,11 +1,11 @@
 {
     "info_main": [
-      {
-          "campo1": "Adress: Calle Lepanto 17-19, Sant Boi de Llobregat, Barcelona, Spain",
-          "campo2": "Phone number: 639944687",
-          "campo3": "Age: 19",
-          "campo4": "Email: pablo.rodriguez.elvira@estudiantat.upc.edu"
-      },
+      [
+          {"info": "Adress: Calle Lepanto 17-19, Sant Boi de Llobregat, Barcelona, Spain"},
+          {"info": "Phone number: 639944687"},
+          {"info": "Age: 19"},
+          {"info": "Email: pablo.rodriguez.elvira@estudiantat.upc.edu"}
+      ],
       {
           "campo1": "Technological Baccalaureate",
           "campo2": "First year in Computer Science (FIB).",
