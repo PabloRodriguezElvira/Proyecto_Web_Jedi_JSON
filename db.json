@@ -89,8 +89,8 @@
       {
           "info_hobbies": [
             {"inf": "Travelling around the world."},
-            {"inf": "Running outside while listening to music."},
-            {"inf": "Watch science-fiction movies and series."}
+            {"inf": "Running while listening to music."},
+            {"inf": "Watch science-fiction movies."}
           ],
           "img": "imagenes/running.png",
           "alt": "foto_html"
