@@ -10,7 +10,7 @@
           "info_edu": [
             {"inf": "Technological Baccalaureate"},
             {"inf": "First year in Computer Science (FIB)."},
-            {"inf": "HTML, CSS and JavaScript course."}
+            {"inf": "HTML, CSS and JavaScript course."}  
           ],
           "img": "imagenes/html-css-js.png",
           "alt": "foto_html"
@@ -96,5 +96,31 @@
           "alt": "foto_html"
       }
     ],
-    "info_users": []
+
+    "info_users": [
+
+    ],
+
+    "info_iframes": [
+      {
+          "margin": "mt-4",
+          "title": "Dokkan Battle Wikia",
+          "url": "https://dbz-dokkanbattle.fandom.com/wiki/Dragon_Ball_Z_Dokkan_Battle_Wiki"
+      },
+      {
+          "margin": "mt-4",
+          "title": "League of Legends Wikia",
+          "url": "https://leagueoflegends.fandom.com/es/wiki/League_of_Legends_Wiki"
+      },
+      {
+          "margin": "mt-3",
+          "title": "Terraria Wikia",
+          "url": "https://terraria.fandom.com/es/wiki/Wiki_Terraria#"
+      },
+      {
+          "margin": "mt-3",
+          "title": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/"
+      }
+    ]
 }
